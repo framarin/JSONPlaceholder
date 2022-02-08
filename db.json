@@ -1,40 +1,40 @@
 {
   "posts": [
   {
-    "descIt": "Prova IT",
+    "descIt": "acquistare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/attivita.png"
   },
   {
-    "descIt": "Prova IT",
+    "descIt": "da vedere",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "urlImage": "https://via.placeholder.com/600/92c952"
+    "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/davedere.png"
   },
   {
-    "descIt": "Prova IT",
+    "descIt": "associazioni",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "urlImage": "https://via.placeholder.com/600/92c952"
+    "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/associazioni.png"
   },
   {
-    "descIt": "Prova IT",
+    "descIt": "alloggiare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "urlImage": "https://via.placeholder.com/3999/FAAB42"
+    "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/alloggiare.png"
   },
   {
-    "descIt": "Prova IT",
+    "descIt": "acquistare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "urlImage": "https://via.placeholder.com/600/92c952"
+    "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/acquistare.png"
   },
   {
-    "descIt": "Prova IT",
+    "descIt": "mangiare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "urlImage": "https://via.placeholder.com/600/92c952"
+    "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/mangiare.png"
   },
   {
     "descIt": "Prova IT",
