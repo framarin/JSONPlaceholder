@@ -18,35 +18,35 @@
     "descIt": "associazioni",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xff64C8D0"
+    "color":  "0xff64C8D0",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/associazioni_img.png"
   },
   {
     "descIt": "alloggiare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xffE84324"
+    "color":  "0xffE84324",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/alloggiare_img.png"
   },
   {
     "descIt": "acquistare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xffACC737"
+    "color":  "0xffACC737",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/acquistare_img.png"
   },
   {
     "descIt": "mangiare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xff208987"
+    "color":  "0xff208987",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/mangiare_img.png"
   },
   {
     "descIt": "persone",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xff208987"
+    "color":  "0xff208987",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/persone_img.png"
   },
   {
