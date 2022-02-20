@@ -25,7 +25,7 @@
     "descIt": "alloggiare",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xffE84324",
+    "color":  "0xffed392b",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/alloggiare_img.png"
   },
   {
@@ -46,7 +46,7 @@
     "descIt": "persone",
     "descFr": "Prova FR",
     "descEn": "Prova EN",
-    "color":  "0xff208987",
+    "color":  "0xed392b",
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/persone_img.png"
   },
   {
