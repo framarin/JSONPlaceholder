@@ -5,6 +5,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff8E1848",
+    "page": "/attivita"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/attivita_img.png"
   },
   {
@@ -12,6 +13,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff91CA93",
+    "page": "/davedere"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/davedere_img.png"
   },
   {
@@ -19,6 +21,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff64C8D0",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/associazioni_img.png"
   },
   {
@@ -26,6 +29,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xffed392b",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/alloggiare_img.png"
   },
   {
@@ -33,6 +37,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xffACC737",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/acquistare_img.png"
   },
   {
@@ -40,6 +45,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff208987",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/mangiare_img.png"
   },
   {
@@ -47,6 +53,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xed392b",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/persone_img.png"
   },
   {
@@ -54,6 +61,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff64C8D0",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/eventi_img.png"
   },
   {
@@ -61,6 +69,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff208987",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/meteo_img.png"
   },
   {
@@ -68,6 +77,7 @@
     "descFr": "Prova FR",
     "descEn": "Prova EN",
     "color":  "0xff64C8D0",
+    "page": "/associazioni"
     "urlImage": "https://raw.githubusercontent.com/framarin/JSONPlaceholder/main/images/qrcode_img.png"
   }
 ],
